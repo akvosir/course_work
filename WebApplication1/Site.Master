@@ -51,7 +51,7 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Головна сторінка</a></li>
-                        <li><a runat="server" href="~/About">База даних</a></li>
+                        <li><a runat="server" href="~/m">База даних</a></li>
                         <li><a runat="server" href="~/Contact">Про програму</a></li>
                     </ul>
                 </div>
